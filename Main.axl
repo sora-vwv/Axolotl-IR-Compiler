@@ -1,0 +1,5 @@
+package axl.example;
+
+fn main() > void {
+    println("Hello, Axolotl!");
+}
